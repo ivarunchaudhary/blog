@@ -2,7 +2,7 @@
 title: "Psychological Pricing: Boost Sales with Smart Tactics"
 description: "Understand the psychology behind pricing decisions and how to use it to increase conversions and revenue."
 pubDate: "Oct 25 2024"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 ## The Psychology of Price Perception

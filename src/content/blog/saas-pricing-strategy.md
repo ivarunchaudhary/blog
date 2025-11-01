@@ -2,7 +2,7 @@
 title: "SaaS Pricing Strategy: Optimizing Your Subscription Model"
 description: "Learn how to design a pricing strategy that maximizes revenue while delivering value to your customers."
 pubDate: "Oct 28 2024"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
 
 ## The Art and Science of SaaS Pricing

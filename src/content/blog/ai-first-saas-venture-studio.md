@@ -2,7 +2,7 @@
 title: "Building the Future: India's First AI-First SaaS Venture Studio"
 description: "Discover how TinyCheque is revolutionizing the SaaS landscape with AI-driven products and strategic partnerships."
 pubDate: "Nov 01 2024"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
 
 ## The Vision Behind TinyCheque
